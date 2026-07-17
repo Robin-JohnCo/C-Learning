@@ -1,0 +1,20 @@
+# VS编译生成文件
+Debug/
+x64/
+x86/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# VS配置缓存
+.vs/
+*.suo
+*.vcxproj.user
+*.opensdf
+*.sdf
+
+# 系统缓存
+Thumbs.db
+.DS_Store
