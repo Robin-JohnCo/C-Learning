@@ -18,5 +18,31 @@
     <ClCompile Include="char.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include=".c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char_about.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="char.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include=".h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="const.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

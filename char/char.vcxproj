@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include=".c" />
+    <ClCompile Include="bool.c" />
     <ClCompile Include="char.c" />
+    <ClCompile Include="char.h" />
+    <ClCompile Include="char_about.c" />
+    <ClCompile Include="const.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include=".h" />
+    <ClInclude Include="bool.h" />
+    <ClInclude Include="const.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

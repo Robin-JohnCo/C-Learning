@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void demo_char()
 {
 
 	char mych = 'A';
