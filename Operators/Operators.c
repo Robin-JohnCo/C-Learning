@@ -8,6 +8,6 @@ int main() {
 	//demo_count();
 	//demo_increment();
 	//demo_shift();
-
+	demo_logic_operator();
 	return 0;
 }

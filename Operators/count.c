@@ -15,7 +15,7 @@ void demo_count()
 
 	printf("Total : %" PRIu32 "\n", totalfruits);
 	printf("RemainingApple : %" PRIu32 "\n", remainingApple);
-	printf("Applebox : %" PRIu32 ", applebox");
+	printf("Applebox : %" PRIu32 "\n", applebox);
 	printf("Remainingfruits : %" PRIu32 "\n", remainingfruits);
 	printf("FruitPerFriend : %" PRIu32 "\n", FruitPerFriend);
 

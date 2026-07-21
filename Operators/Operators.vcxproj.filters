@@ -36,6 +36,9 @@
     <ClCompile Include="Operators.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="logic_operator.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="daycode.h">

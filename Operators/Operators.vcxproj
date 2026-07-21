@@ -132,6 +132,7 @@
     <ClCompile Include="count.c" />
     <ClCompile Include="increment.c" />
     <ClCompile Include="logic_judgement.c" />
+    <ClCompile Include="logic_operator.c" />
     <ClCompile Include="Operators.c" />
     <ClCompile Include="shift.c" />
   </ItemGroup>
