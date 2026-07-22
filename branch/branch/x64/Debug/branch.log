@@ -1,0 +1,5 @@
+﻿  branch.c
+  logic_if_else.c
+D:\Project\branch\logic_if_else.c(20,2): warning C4098: “demo_logic_if”:“void”函数返回值
+  正在生成代码...
+  branch.vcxproj -> D:\Project\branch\x64\Debug\branch.exe
