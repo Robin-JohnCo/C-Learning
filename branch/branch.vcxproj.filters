@@ -24,6 +24,18 @@
     <ClCompile Include="branch.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="switch_case.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="condition_again.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="卫语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TodayCode.h">

@@ -128,8 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="branch.c" />
+    <ClCompile Include="condition_again.c" />
     <ClCompile Include="if-else.c" />
     <ClCompile Include="logic_if_else.c" />
+    <ClCompile Include="switch.c" />
+    <ClCompile Include="switch_case.c" />
+    <ClCompile Include="卫语句.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TodayCode.h" />
