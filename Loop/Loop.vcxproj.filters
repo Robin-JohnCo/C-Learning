@@ -18,5 +18,31 @@
     <ClCompile Include="while.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Case_Study_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="death_loop_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="death_loop_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while_3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Loop.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EveryCode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-int main()
+void demo_while()
 {
 
 	const uint8_t TOTAL_LAPS = 10;  //  终止目标 总圈数

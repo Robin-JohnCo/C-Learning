@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Case_Study_1.c" />
+    <ClCompile Include="death_loop_1.c" />
+    <ClCompile Include="death_loop_2.c" />
+    <ClCompile Include="do_while_1.c" />
+    <ClCompile Include="do_while_2.c" />
+    <ClCompile Include="do_while_3.c" />
+    <ClCompile Include="Loop.c" />
     <ClCompile Include="while.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EveryCode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
