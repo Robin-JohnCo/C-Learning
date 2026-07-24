@@ -1,0 +1,10 @@
+#pragma once
+void demo_components();
+void demo_factorial();
+void demo_prime();
+void demo_progress_bar();
+void demo_pyramid();
+void demo_reciprocal();
+void demo_square();
+void demo_sum_squars();
+void demo_triangle();

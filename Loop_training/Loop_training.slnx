@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Loop_training.vcxproj" Id="f8d65154-2666-47d2-827c-8278f44ff20a" />
+</Solution>
