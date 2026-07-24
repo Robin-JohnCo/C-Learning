@@ -39,6 +39,12 @@
     <ClCompile Include="Loop.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EveryCode.h">

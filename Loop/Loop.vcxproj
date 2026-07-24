@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Case_Study_1.c" />
+    <ClCompile Include="continue.c" />
     <ClCompile Include="death_loop_1.c" />
     <ClCompile Include="death_loop_2.c" />
     <ClCompile Include="do_while_1.c" />
     <ClCompile Include="do_while_2.c" />
     <ClCompile Include="do_while_3.c" />
+    <ClCompile Include="for.c" />
     <ClCompile Include="Loop.c" />
     <ClCompile Include="while.c" />
   </ItemGroup>

@@ -6,3 +6,5 @@ void demo_do_while_1();
 void demo_do_while_2();
 void demo_guess_number();
 void demo_while();
+void demo_continue();
+void demo_for();

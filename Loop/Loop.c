@@ -9,6 +9,8 @@ int main() {
 	//demo_do_while_2();
 	//demo_guess_number();
 	//demo_while();
+	//demo_continue();
+	//demo_for();
 
 	return 0;
 }
