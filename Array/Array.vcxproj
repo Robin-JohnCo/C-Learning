@@ -105,6 +105,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalOptions>/gbk %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,9 +130,11 @@
   <ItemGroup>
     <ClCompile Include="Array.c" />
     <ClCompile Include="condidate.c" />
+    <ClCompile Include="farm.c" />
     <ClCompile Include="frequency.c" />
     <ClCompile Include="girl.c" />
     <ClCompile Include="grade.c" />
+    <ClCompile Include="traning.c" />
     <ClCompile Include="weather.c" />
   </ItemGroup>
   <ItemGroup>
