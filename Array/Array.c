@@ -1,6 +1,6 @@
 #include "EveryCode.h"
 
-/*int main()
+int main()
 {
 	//demo_condidate();
 	//demo_frequency();
@@ -12,4 +12,3 @@
 
 	return 0;
 }
-*/
