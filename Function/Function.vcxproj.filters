@@ -21,5 +21,31 @@
     <ClCompile Include="leap_year.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="month.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="grade.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Function.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EveryCode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

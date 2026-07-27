@@ -1,0 +1,9 @@
+#pragma once
+void demo_factorial();
+void demo_factorial_1();
+void demo_factorial_2();
+void demo_Game();
+void demo_grade();
+void demo_leap_year();
+void demo_months();
+void demo_square();

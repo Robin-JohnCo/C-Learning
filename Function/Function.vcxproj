@@ -127,8 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="factorial.c" />
+    <ClCompile Include="factorial_1.c" />
+    <ClCompile Include="factorial_2.c" />
+    <ClCompile Include="Function.c" />
+    <ClCompile Include="Game.c" />
+    <ClCompile Include="grade.c" />
     <ClCompile Include="leap_year.c" />
+    <ClCompile Include="month.c" />
     <ClCompile Include="square.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EveryCode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

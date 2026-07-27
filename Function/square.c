@@ -6,7 +6,7 @@ double square_area(double side);
 double rectangle_area(double length, double width);
 double circle_area(double redius);
 
-int demo_square()
+void demo_square()
 {
 
 	printf("%lf\n", square_area(6.00));
