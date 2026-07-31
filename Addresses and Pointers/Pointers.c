@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void demo_Pointers()
 {
 	// 指针
 	// 指针是一种特殊的变量，不存储具体的值，只储存数据的地址

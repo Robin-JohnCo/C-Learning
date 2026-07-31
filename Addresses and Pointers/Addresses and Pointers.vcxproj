@@ -128,7 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Address.c" />
+    <ClCompile Include="Array_pointer.c" />
     <ClCompile Include="Pointers.c" />
+    <ClCompile Include="size.c" />
+    <ClCompile Include="wild_pointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
