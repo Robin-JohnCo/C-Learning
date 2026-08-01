@@ -30,5 +30,29 @@
     <ClCompile Include="size.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="size_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Array_pointer_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="array_pointer_3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deliver.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="update.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Gold.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

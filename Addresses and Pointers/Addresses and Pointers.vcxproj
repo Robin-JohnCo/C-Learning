@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -129,8 +129,16 @@
   <ItemGroup>
     <ClCompile Include="Address.c" />
     <ClCompile Include="Array_pointer.c" />
+    <ClCompile Include="Array_pointer_2.c" />
+    <ClCompile Include="array_pointer_3.c" />
+    <ClCompile Include="deliver.c" />
+    <ClCompile Include="exp.c" />
+    <ClCompile Include="game.c" />
+    <ClCompile Include="Gold.c" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="size.c" />
+    <ClCompile Include="size_2.c" />
+    <ClCompile Include="update.c" />
     <ClCompile Include="wild_pointer.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
