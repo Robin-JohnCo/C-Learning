@@ -127,13 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="about_a_string.c" />
     <ClCompile Include="gets_puts.c" />
     <ClCompile Include="sprintf.c" />
     <ClCompile Include="strcat.c" />
+    <ClCompile Include="strchr.c" />
+    <ClCompile Include="strcmp.c" />
     <ClCompile Include="strcpy.c" />
     <ClCompile Include="strlen.c" />
     <ClCompile Include="strncat.c" />
     <ClCompile Include="strncpy.c" />
+    <ClCompile Include="strspn.c" />
+    <ClCompile Include="strstr.c" />
     <ClCompile Include="strtok.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

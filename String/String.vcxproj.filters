@@ -39,5 +39,20 @@
     <ClCompile Include="strtok.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="strcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strchr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strstr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="strspn.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="about_a_string.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

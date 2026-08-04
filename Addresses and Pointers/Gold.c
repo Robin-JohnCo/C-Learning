@@ -5,17 +5,19 @@
 
 #define GOLD 10
 
-const char* achievements[GOLD];
+const char* achievements[GOLD] = {"Suck!"};
 
 size_t achievement_count = 0;
 
 void add_new_achievement(const char* achievement);
 void print_achievements();
 
-void demo_Gold()
+int  main()
 {
 	add_new_achievement("First Blood");
 	add_new_achievement("Sharp Shooter");
+
+	//printf("Achievements : %s\n", achievements[0]);
 
 	print_achievements();
 

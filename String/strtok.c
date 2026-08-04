@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main()
+void demo_strtok()
 {
 	char string[] = { "Please input a number" };
 

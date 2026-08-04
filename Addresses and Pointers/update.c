@@ -6,7 +6,7 @@
 void update(int* score, int point);
 int32_t* compare(int* score1, int* score2);
 
-int main()
+void demo_update()
 {
 	int score = 50;
 
