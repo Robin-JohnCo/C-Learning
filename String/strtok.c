@@ -8,7 +8,7 @@ void demo_strtok()
 	char delim[] = " ";
 
 	char* token;
-	char* context;
+	char* context = NULL;
 
 
 	token = strtok_s(string, delim, &context);
