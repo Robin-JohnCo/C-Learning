@@ -12,7 +12,7 @@ size_t achievement_count = 0;
 void add_new_achievement(const char* achievement);
 void print_achievements();
 
-int  main()
+void demo_gold()
 {
 	add_new_achievement("First Blood");
 	add_new_achievement("Sharp Shooter");

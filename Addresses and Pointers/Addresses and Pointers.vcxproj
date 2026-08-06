@@ -138,6 +138,7 @@
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="size.c" />
     <ClCompile Include="size_2.c" />
+    <ClCompile Include="test.c" />
     <ClCompile Include="update.c" />
     <ClCompile Include="wild_pointer.c" />
   </ItemGroup>
