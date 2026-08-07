@@ -15,31 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fopenr.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="fopenw.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="fopenr+.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="file_2.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="file_a.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="file_w.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="file_r+.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="wb_rb.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="filecopy.c">
+    <ClCompile Include="test.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

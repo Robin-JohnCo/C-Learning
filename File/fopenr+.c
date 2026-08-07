@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <errno.h>
 
-int main()
+void demo_f()
 {
 	FILE* file_stream = NULL;
 
