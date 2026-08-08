@@ -15,31 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fopenr.c">
+    <ClCompile Include="Trigonometric functions.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="fopenw.c">
+    <ClCompile Include="exp_log.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="fopenr+.c">
+    <ClCompile Include="math.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="file_2.c">
+    <ClCompile Include="pow.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="file_a.c">
+    <ClCompile Include="sqrt_err.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="file_w.c">
+    <ClCompile Include="float.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="file_r+.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="wb_rb.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="filecopy.c">
+    <ClCompile Include="time.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c498a10f-17cd-4e15-b8ef-ffee2ff7281e}</ProjectGuid>
-    <RootNamespace>File</RootNamespace>
+    <ProjectGuid>{a6fa7e73-faf8-43f4-96e9-29672b054c2a}</ProjectGuid>
+    <RootNamespace>Math</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,15 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="filecopy.c" />
-    <ClCompile Include="wb_rb.c" />
-    <ClCompile Include="file_2.c" />
-    <ClCompile Include="file_a.c" />
-    <ClCompile Include="file_r+.c" />
-    <ClCompile Include="file_w.c" />
-    <ClCompile Include="fopenr+.c" />
-    <ClCompile Include="fopenr.c" />
-    <ClCompile Include="fopenw.c" />
+    <ClCompile Include="exp_log.c" />
+    <ClCompile Include="float.c" />
+    <ClCompile Include="math.c" />
+    <ClCompile Include="pow.c" />
+    <ClCompile Include="sqrt_err.c" />
+    <ClCompile Include="time.c" />
+    <ClCompile Include="Trigonometric functions.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
