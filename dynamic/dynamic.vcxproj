@@ -128,9 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="calloc.c" />
+    <ClCompile Include="double_pointer.c" />
     <ClCompile Include="malloc.c" />
     <ClCompile Include="realloc.c" />
     <ClCompile Include="struct_malloc.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exp.cp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

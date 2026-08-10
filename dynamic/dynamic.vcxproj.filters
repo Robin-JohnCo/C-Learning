@@ -27,5 +27,11 @@
     <ClCompile Include="calloc.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="double_pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exp.cp" />
   </ItemGroup>
 </Project>
