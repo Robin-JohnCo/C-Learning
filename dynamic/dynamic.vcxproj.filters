@@ -30,8 +30,11 @@
     <ClCompile Include="double_pointer.c">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="exp.cp" />
+    <ClCompile Include="exp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pointers.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
