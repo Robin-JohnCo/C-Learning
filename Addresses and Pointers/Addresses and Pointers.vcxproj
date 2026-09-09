@@ -135,6 +135,7 @@
     <ClCompile Include="exp.c" />
     <ClCompile Include="game.c" />
     <ClCompile Include="Gold.c" />
+    <ClCompile Include="goldsys.c" />
     <ClCompile Include="Pointers.c" />
     <ClCompile Include="size.c" />
     <ClCompile Include="size_2.c" />
