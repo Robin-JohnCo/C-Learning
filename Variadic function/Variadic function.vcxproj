@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{50457508-9caf-4d08-bdd7-b4cdf4bc3271}</ProjectGuid>
-    <RootNamespace>AddressesandPointers</RootNamespace>
+    <ProjectGuid>{ed122bab-ba0e-427f-b519-5ed3769ffd0b}</ProjectGuid>
+    <RootNamespace>Variadicfunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,22 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Address.c" />
-    <ClCompile Include="Array_pointer.c" />
-    <ClCompile Include="Array_pointer_2.c" />
-    <ClCompile Include="array_pointer_3.c" />
-    <ClCompile Include="Dangling Pointer.c" />
-    <ClCompile Include="deliver.c" />
-    <ClCompile Include="exp.c" />
-    <ClCompile Include="game.c" />
-    <ClCompile Include="Gold.c" />
-    <ClCompile Include="goldsys.c" />
-    <ClCompile Include="Pointers.c" />
-    <ClCompile Include="size.c" />
-    <ClCompile Include="size_2.c" />
-    <ClCompile Include="test.c" />
-    <ClCompile Include="update.c" />
-    <ClCompile Include="wild_pointer.c" />
+    <ClCompile Include="assert.c" />
+    <ClCompile Include="message.c" />
+    <ClCompile Include="Variadic function.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

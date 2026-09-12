@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="New DEMO.vcxproj" Id="57fccf14-891f-4844-aecd-25d5fd553d47" />
+  <Project Path="Variadic function.vcxproj" Id="ed122bab-ba0e-427f-b519-5ed3769ffd0b" />
 </Solution>

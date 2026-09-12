@@ -60,5 +60,8 @@
     <ClCompile Include="goldsys.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Dangling Pointer.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
